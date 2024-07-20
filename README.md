@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Tawakkal&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed-Tawakkal" /> </p>
 
 - 🔭 I’m currently working on **Building my experience and knowledge**
-- 📃 My current course is **Full Stack development**
+- 📃 My current course is **Full Stack Development**
 - 🌱 I’m currently learning **Salesforce, Mobile Application Development**
 - 👯 I’m looking to collaborate on **Mini Projects**
 - ⚒️ I'm currently Working at **First Source**
